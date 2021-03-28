@@ -4,9 +4,8 @@ const help = (prefix) => {
 
 ◪ *Información*
   ❏ Comando: 「  ${prefix}  」
-  ❏ Creador: H3r3s
-  ❏ Sigueme en mi canal :v: https://www.youtube.com/channel/UCyCX_8fUr8c-sh2yCKALEBA
-
+  ❏ Creador: h3r3s
+  ❏ Como instalar el bot: https://www.youtube.com/channel/UCyCX_8fUr8c-sh2yCKALEBA
 
 ◪ *Para usar al bot*
   ❏ Registrate con el comando ${prefix}daftar Nombre
@@ -57,7 +56,7 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2
 
-chupalo ctm .i.
+chupalo ctm
 `
 }
 
